@@ -1,3 +1,5 @@
+
+
 # ☁️ AWS Cloud Portfolio
 
 Welcome to my **AWS Cloud Portfolio**! 🚀
@@ -20,12 +22,11 @@ This portfolio represents my practical learning journey through real-world AWS p
 - Amazon S3
 - Amazon VPC
 - AWS IAM
-- Amazon RDS
+- Auto Scaling
 - Elastic Load Balancer (ELB)
 - Amazon CloudWatch
 - Amazon SNS
 - AWS Budgets
-- AWS Cost Explorer
 
 ---
 
@@ -37,7 +38,7 @@ This portfolio represents my practical learning journey through real-world AWS p
 | 2 | IAM Security Framework | ✅ Completed |
 | 3 | Cloud Monitoring & Automation | ✅ Completed |
 | 4 | AWS Static Website Hosting | ✅ Completed |
-| 5 | AWS Budget & Cost Monitoring | ✅ Completed |
+| 5 | AWS Budget & Cost Monitoring | ✅ Completed|
 
 ---
 
@@ -69,6 +70,14 @@ aws-cloud-portfolio/
 
 ---
 
- AWS Cloud Portfolio!
+# 🚀 Goals
+
+- Build production-ready AWS projects
+- Strengthen Cloud & DevOps skills
+- Continuously improve through hands-on learning
+
+---
+
+## ⭐ Thank you for visiting my AWS Cloud Portfolio!
 
 If you found this repository helpful, feel free to explore the projects.
