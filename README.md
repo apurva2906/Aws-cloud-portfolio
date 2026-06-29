@@ -22,15 +22,26 @@ This portfolio represents my practical learning journey through real-world AWS p
 - Amazon S3
 - Amazon VPC
 - AWS IAM
-- Auto Scaling
+- Amazon RDS
 - Elastic Load Balancer (ELB)
 - Amazon CloudWatch
 - Amazon SNS
 - AWS Budgets
+- AWS Cost Explorer
 
 ---
 
+# 📂 Projects
 
+| No. | Project | Status |
+|-----|---------|--------|
+| 1 | AWS Infrastructure Deployment | ✅ Completed |
+| 2 | IAM Security Framework | ✅ Completed |
+| 3 | Cloud Monitoring & Automation | ✅ Completed |
+| 4 | AWS Static Website Hosting | ✅ Completed |
+| 5 | AWS Budget & Cost Monitoring | ✅ Completed |
+
+---
 
 # 📁 Repository Structure
 
@@ -40,15 +51,7 @@ aws-cloud-portfolio/
 ├── aws-infrastructure-deployment/
 ├── iam-security-framework/
 ├── cloud-monitoring-automation/
-├── aws-static-website-hosting/# 📂 Projects
-
-| Project | Description |
-|---------|-------------|
-| [AWS Infrastructure Deployment](./aws-infrastructure-deployment) | Deploy a secure AWS infrastructure using EC2, VPC, IAM, RDS, S3, ELB, and CloudWatch. |
-| [IAM Security Framework](./iam-security-framework) | Implement IAM users, groups, roles, MFA, and least-privilege access control. |
-| [Cloud Monitoring & Automation](./cloud-monitoring-automation) | Monitor AWS resources using CloudWatch alarms, SNS notifications, dashboards, and automation. |
-| [AWS Static Website Hosting](./aws-static-website-hosting) | Host a static website using Amazon S3 and CloudFront. |
-| [AWS Budget & Cost Monitoring](./aws-budget-cost-monitoring) | Configure AWS Budgets, Cost Explorer, billing alerts, and cost optimization. |
+├── aws-static-website-hosting/
 ├── aws-budget-cost-monitoring/
 │
 └── README.md
@@ -72,6 +75,7 @@ aws-cloud-portfolio/
 
 - Build production-ready AWS projects
 - Strengthen Cloud & DevOps skills
+- Prepare for AWS Cloud Engineer roles
 - Continuously improve through hands-on learning
 
 ---
