@@ -16,7 +16,7 @@ This project demonstrates the deployment of a secure and scalable AWS infrastruc
 - Route Tables
 - Security Groups
 - Amazon RDS
--Nat Gatewway
+
 
 
 
