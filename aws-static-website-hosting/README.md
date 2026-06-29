@@ -10,8 +10,6 @@ This project demonstrates how to host a static website using Amazon S3 and Amazo
 
 - Amazon S3
 - Amazon CloudFront
-- AWS Certificate Manager (ACM)
-- Amazon Route 53 *(if you used it; otherwise remove this line)*
 
 ---
 
