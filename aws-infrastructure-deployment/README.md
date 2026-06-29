@@ -20,7 +20,6 @@ This project demonstrates the deployment of a secure and scalable AWS infrastruc
 
 
 
-
 ---
 
 ## 🏗️ Architecture Diagram
