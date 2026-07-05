@@ -14,7 +14,7 @@ This project focuses on implementing a secure Identity and Access Management (IA
 - IAM Roles
 - IAM Policies
 - Multi-Factor Authentication (MFA)
-- Amazon EC2 (Role Testing)
+
 
 ---
 
@@ -33,7 +33,6 @@ Project screenshots are available in the **screenshots** folder.
 - Created IAM users and groups.
 - Attached custom IAM policies.
 - Verified least-privilege access.
-- Tested IAM roles with EC2.
 - Enabled Multi-Factor Authentication (MFA).
 
 ---
